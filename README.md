@@ -2,6 +2,9 @@
 Intel Unnati Training: GPS based Toll System using python
 This project uses GPS Coordinates to calculate Toll Fare of a Car
 Made using several Python libraries, using Tkinter as front end and MySQL as back end
+
+Tolls are collected at Toll booths but this is not just. Whether you travel long distance or short distance, the same amount is charged. To solve this, we calculate Toll Charges on the bases of distance travelled calculated using GPS Coordinates.
+
 Three types of Fare:
 1) Normal Fare
 2) Discouted fare (Return Journey within 24hrs)
@@ -10,6 +13,8 @@ Three types of Fare:
 Ability to view and add money to your balance wallet. Login and Sign Up (When you sign up you get 10000 joining money)
 
 View Trip History
+
+Python Libraries used: Mysql connector, simpy, tkinter, pandas, geopandas, shapely, geopy, datetime, decimalS
 
 ![image](https://github.com/user-attachments/assets/64b03e1f-3c95-4287-95ca-ce777c380a1b)
 
