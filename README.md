@@ -7,7 +7,7 @@ Three types of Fare:
 2) Discouted fare (Return Journey within 24hrs)
 3) Vacation fare (Higher Fare for vacation months)
 
-Ability to view and add money to your balance wallet
+Ability to view and add money to your balance wallet. Login and Sign Up (When you sign up you get 10000 joining money)
 
 View Trip History
 
